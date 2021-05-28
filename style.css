@@ -95,7 +95,7 @@ header a{
 	display: flex;
 	flex-wrap: wrap;
 	flex:auto;
-	
+	justify-content: center;
 }
 
 .flex-list img{
